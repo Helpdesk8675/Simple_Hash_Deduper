@@ -1,3 +1,3 @@
 # Simple_Hash_Deduper
 
-This will prompt the user to select a folder and it will then hash using the md5sum all the files and copy only one to the output folder.  It will rename the files to the md5sum value.
+This script provides a user-friendly interface for hashing files in a specified directory and copying them to a new location with names based on their MD5 hashes. It efficiently handles duplicates by skipping files that have already been processed, making it useful for organizing files based on their content rather than their original names.
